@@ -1,0 +1,3 @@
+pipreqs "c:/Users/deepgohil/Desktop/Vercel api test"
+
+C:\Users\deepgohil\Desktop\Vercel api test\main.py
